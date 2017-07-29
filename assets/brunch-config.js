@@ -65,7 +65,8 @@ exports.config = {
     enabled: true,
     globals: {
       $: "jquery",
-      uikit: "uikit"
+      uikit: "uikit",
+      icons: "uikit/dist/js/uikit-icon"
     }
   }
 };
